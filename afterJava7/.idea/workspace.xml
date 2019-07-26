@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ddf61cd1-b54c-41eb-851f-4474188364d6" name="Default Changelist" comment="" />
+    <list default="true" id="8087aa3d-1684-467f-93d2-b8177d15fbdc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/java8/base64/Base64Sample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/java8/date/DateTimeAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/java8/nashorn/NashornSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/java8/nashorn/sample_js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/java8/optional/OptionalExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/java8/stream/StreamOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learn/java8/stream/StreamProcessing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/learn/java8/base64/Base64SampleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/learn/java8/date/DateTimeAPITest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/learn/java8/nashorn/NashornSampleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/learn/java8/optional/OptionalExampleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/learn/java8/stream/StreamOperationsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/learn/java8/stream/StreamProcessingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/META-INF/com.learn.java8.afterJava7.main.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/learn/java8/method_reference/MethodReference.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/learn/java8/method_reference/MethodReference.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/META-INF/com.learn.java8.afterJava7.main.kotlin_module" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -17,30 +41,123 @@
     </projectState>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/java8/method_reference/MethodReference.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/java8/date/DateTimeAPI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="37" selection-start-line="37" selection-end-line="37" />
+            <state relative-caret-position="740">
+              <caret line="423" column="63" lean-forward="true" selection-start-line="423" selection-start-column="63" selection-end-line="423" selection-end-column="63" />
               <folding>
-                <element signature="e#219#220#0" expanded="true" />
-                <element signature="e#276#277#0" expanded="true" />
-                <element signature="e#658#659#0" expanded="true" />
-                <element signature="e#711#712#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/learn/java8/TestMethodReference.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/java8/nashorn/NashornSample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="13" column="54" selection-start-line="13" selection-start-column="54" selection-end-line="13" selection-end-column="54" />
+            <state relative-caret-position="300">
+              <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#429#430#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/java8/base64/Base64Sample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/learn/java8/base64/Base64SampleTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+              <folding>
+                <element signature="e#212#213#0" expanded="true" />
+                <element signature="e#239#240#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/learn/java8/nashorn/NashornSampleTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+              <folding>
+                <element signature="e#216#217#0" expanded="true" />
+                <element signature="e#254#255#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/learn/java8/date/DateTimeAPITest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="334">
+              <caret line="128" column="39" selection-start-line="128" selection-start-column="39" selection-end-line="128" selection-end-column="39" />
+              <folding>
+                <element signature="e#217#218#0" expanded="true" />
+                <element signature="e#243#244#0" expanded="true" />
+                <element signature="e#301#302#0" expanded="true" />
+                <element signature="e#340#341#0" expanded="true" />
+                <element signature="e#381#382#0" expanded="true" />
+                <element signature="e#420#421#0" expanded="true" />
+                <element signature="e#473#474#0" expanded="true" />
+                <element signature="e#516#517#0" expanded="true" />
+                <element signature="e#567#568#0" expanded="true" />
+                <element signature="e#593#594#0" expanded="true" />
+                <element signature="e#655#656#0" expanded="true" />
+                <element signature="e#681#682#0" expanded="true" />
+                <element signature="e#741#742#0" expanded="true" />
+                <element signature="e#767#768#0" expanded="true" />
+                <element signature="e#833#834#0" expanded="true" />
+                <element signature="e#876#877#0" expanded="true" />
+                <element signature="e#954#955#0" expanded="true" />
+                <element signature="e#1008#1009#0" expanded="true" />
+                <element signature="e#1067#1068#0" expanded="true" />
+                <element signature="e#1122#1123#0" expanded="true" />
+                <element signature="e#1151#1152#0" expanded="true" />
+                <element signature="e#1195#1196#0" expanded="true" />
+                <element signature="e#1206#1207#0" expanded="true" />
+                <element signature="e#1243#1244#0" expanded="true" />
+                <element signature="e#1293#1294#0" expanded="true" />
+                <element signature="e#1319#1320#0" expanded="true" />
+                <element signature="e#1373#1374#0" expanded="true" />
+                <element signature="e#1399#1400#0" expanded="true" />
+                <element signature="e#1456#1457#0" expanded="true" />
+                <element signature="e#1482#1483#0" expanded="true" />
+                <element signature="e#1543#1544#0" expanded="true" />
+                <element signature="e#1569#1570#0" expanded="true" />
+                <element signature="e#1624#1625#0" expanded="true" />
+                <element signature="e#1650#1651#0" expanded="true" />
+                <element signature="e#1708#1709#0" expanded="true" />
+                <element signature="e#1734#1735#0" expanded="true" />
+                <element signature="e#1793#1794#0" expanded="true" />
+                <element signature="e#1819#1820#0" expanded="true" />
+                <element signature="e#1882#1883#0" expanded="true" />
+                <element signature="e#1908#1909#0" expanded="true" />
+                <element signature="e#1968#1969#0" expanded="true" />
+                <element signature="e#2005#2006#0" expanded="true" />
+                <element signature="e#2048#2049#0" expanded="true" />
+                <element signature="e#2074#2075#0" expanded="true" />
+                <element signature="e#2136#2137#0" expanded="true" />
+                <element signature="e#2154#2155#0" expanded="true" />
+                <element signature="e#2229#2230#0" expanded="true" />
+                <element signature="e#2255#2256#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -51,30 +168,36 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>parse</find>
+      <find>forma</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/functional_interface/FunctionalInterface.java" />
-        <option value="$PROJECT_DIR$/src/test/java/TestFunctionalInterfaceType.java" />
-        <option value="$PROJECT_DIR$/src/main/java/functional_interface/FunctionalInterfaceType.java" />
-        <option value="$PROJECT_DIR$/src/main/java/functional_interface/CustomFunctionalInterfaceImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/functional_interface/CustomFunctionalInterface.java" />
-        <option value="$PROJECT_DIR$/src/main/java/functional_interface/CustomFunctionalInterfaceImplementation.java" />
-        <option value="$PROJECT_DIR$/src/test/java/TestCustomFunctionalInterface.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lambda/TestInterface.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lambda/TestInterface1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lambda/TestInterface2.java" />
-        <option value="$PROJECT_DIR$/src/test/java/TestLambda.java" />
-        <option value="$PROJECT_DIR$/src/main/java/lambda/LambdaClass.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/learn/java8/TestMethodReference.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/java8/functional_interface/CustomFunctionalInterfaceImplementation.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/learn/java8/TestCustomFunctionalInterface.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/learn/java8/method_reference/MethodReference.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/learn/java8/stream/StreamProcessingTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/learn/java8/stream/StreamProcessing.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/learn/java8/stream/StreamOperations.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/learn/java8/stream/StreamOperationsTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/learn/java8/optional/OptionalExampleTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/learn/java8/optional/OptionalExample.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/learn/java8/date/DateTimeAPITest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/learn/java8/date/DateTimeAPI.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/learn/java8/nashorn/NashornSampleTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/learn/java8/nashorn/sample_js.js" />
+        <option value="$PROJECT_DIR$/src/main/java/com/learn/java8/nashorn/NashornSample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/learn/java8/base64/Base64Sample.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/learn/java8/base64/Base64SampleTest.java" />
       </list>
     </option>
   </component>
@@ -82,11 +205,15 @@
     <option name="width" value="1280" />
     <option name="height" value="800" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -133,32 +260,32 @@
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="afterJava7" type="b2602c69:ProjectViewProjectNode" />
-              <item name="afterJava7" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="java8" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563384923062" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.17" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564168731579" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="functional_interface" />
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.learn.java8.base64" />
+      <recent name="com.learn.java8.nashorn" />
+      <recent name="com.learn.java8.date" />
+      <recent name="com.learn.java8.optional" />
+      <recent name="com.learn.java8.stream" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -173,79 +300,82 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestMethodReference.test_using_static_method_reference">
-    <configuration name="MethodReference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.learn.java8.method_reference.MethodReference" />
-      <module name="com.learn.java8.afterJava7.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.learn.java8.method_reference.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestCustomFunctionalInterface.test_calling_default_method_custom_functionalInterface2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.Base64SampleTest.base64">
+    <configuration name="Base64SampleTest.base64" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.learn.java8.afterJava7.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.learn.java8.*" />
+          <option name="PATTERN" value="com.learn.java8.base64.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.learn.java8" />
-      <option name="MAIN_CLASS_NAME" value="com.learn.java8.TestCustomFunctionalInterface" />
-      <option name="METHOD_NAME" value="test_calling_default_method_custom_functionalInterface2" />
+      <option name="PACKAGE_NAME" value="com.learn.java8.base64" />
+      <option name="MAIN_CLASS_NAME" value="com.learn.java8.base64.Base64SampleTest" />
+      <option name="METHOD_NAME" value="base64" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestMethodReference.test_using_constructor_method_reference" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DateTimeAPITest.chronoUnitEnums" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.learn.java8.afterJava7.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.learn.java8.*" />
+          <option name="PATTERN" value="com.learn.java8.date.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.learn.java8" />
-      <option name="MAIN_CLASS_NAME" value="com.learn.java8.TestMethodReference" />
-      <option name="METHOD_NAME" value="test_using_constructor_method_reference" />
+      <option name="PACKAGE_NAME" value="com.learn.java8.date" />
+      <option name="MAIN_CLASS_NAME" value="com.learn.java8.date.DateTimeAPITest" />
+      <option name="METHOD_NAME" value="chronoUnitEnums" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestMethodReference.test_using_instance_method_reference" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DateTimeAPITest.elapsedTime" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.learn.java8.afterJava7.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.learn.java8.*" />
+          <option name="PATTERN" value="com.learn.java8.date.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.learn.java8" />
-      <option name="MAIN_CLASS_NAME" value="com.learn.java8.TestMethodReference" />
-      <option name="METHOD_NAME" value="test_using_instance_method_reference" />
+      <option name="PACKAGE_NAME" value="com.learn.java8.date" />
+      <option name="MAIN_CLASS_NAME" value="com.learn.java8.date.DateTimeAPITest" />
+      <option name="METHOD_NAME" value="elapsedTime" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestMethodReference.test_using_static_method_reference" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DateTimeAPITest.temporalAdjuster" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.learn.java8.afterJava7.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.learn.java8.*" />
+          <option name="PATTERN" value="com.learn.java8.date.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.learn.java8" />
-      <option name="MAIN_CLASS_NAME" value="com.learn.java8.TestMethodReference" />
-      <option name="METHOD_NAME" value="test_using_static_method_reference" />
+      <option name="PACKAGE_NAME" value="com.learn.java8.date" />
+      <option name="MAIN_CLASS_NAME" value="com.learn.java8.date.DateTimeAPITest" />
+      <option name="METHOD_NAME" value="temporalAdjuster" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NashornSampleTest.script" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.learn.java8.afterJava7.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learn.java8.nashorn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.learn.java8.nashorn" />
+      <option name="MAIN_CLASS_NAME" value="com.learn.java8.nashorn.NashornSampleTest" />
+      <option name="METHOD_NAME" value="script" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -253,11 +383,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TestMethodReference.test_using_static_method_reference" />
-        <item itemvalue="JUnit.TestCustomFunctionalInterface.test_calling_default_method_custom_functionalInterface2" />
-        <item itemvalue="JUnit.TestMethodReference.test_using_instance_method_reference" />
-        <item itemvalue="JUnit.TestMethodReference.test_using_constructor_method_reference" />
-        <item itemvalue="Application.MethodReference" />
+        <item itemvalue="JUnit.Base64SampleTest.base64" />
+        <item itemvalue="JUnit.NashornSampleTest.script" />
+        <item itemvalue="JUnit.DateTimeAPITest.temporalAdjuster" />
+        <item itemvalue="JUnit.DateTimeAPITest.chronoUnitEnums" />
+        <item itemvalue="JUnit.DateTimeAPITest.elapsedTime" />
       </list>
     </recent_temporary>
   </component>
@@ -266,159 +396,257 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ddf61cd1-b54c-41eb-851f-4474188364d6" name="Default Changelist" comment="" />
-      <created>1563360366072</created>
+      <changelist id="8087aa3d-1684-467f-93d2-b8177d15fbdc" name="Default Changelist" comment="" />
+      <created>1563429717146</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1563360366072</updated>
+      <updated>1563429717146</updated>
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestLambda_test_message - 2019.07.17 at 20h 36m 08s.xml">
-      <configuration name="TestLambda.test_message" configurationId="JUnit" />
+    <history-entry file="DateTimeAPITest_formattedDateTime - 2019.07.27 at 00h 14m 29s.xml">
+      <configuration name="DateTimeAPITest.formattedDateTime" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestLambda - 2019.07.17 at 20h 42m 29s.xml">
-      <configuration name="TestLambda" configurationId="JUnit" />
+    <history-entry file="DateTimeAPITest_beforeJava8 - 2019.07.27 at 00h 18m 56s.xml">
+      <configuration name="DateTimeAPITest.beforeJava8" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestMethodReference_test_using_static_method_reference - 2019.07.17 at 21h 17m 54s.xml">
-      <configuration name="TestMethodReference.test_using_static_method_reference" configurationId="JUnit" />
+    <history-entry file="DateTimeAPITest_timeStampInJava8 - 2019.07.27 at 00h 23m 05s.xml">
+      <configuration name="DateTimeAPITest.timeStampInJava8" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestMethodReference_test_using_instance_method_reference - 2019.07.17 at 21h 37m 22s.xml">
-      <configuration name="TestMethodReference.test_using_instance_method_reference" configurationId="JUnit" />
+    <history-entry file="DateTimeAPITest_EST_IST - 2019.07.27 at 00h 25m 21s.xml">
+      <configuration name="DateTimeAPITest.EST_IST" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestMethodReference_test_using_instance_method_reference - 2019.07.17 at 21h 38m 33s.xml">
-      <configuration name="TestMethodReference.test_using_instance_method_reference" configurationId="JUnit" />
+    <history-entry file="DateTimeAPITest_elapsedTime - 2019.07.27 at 00h 29m 27s.xml">
+      <configuration name="DateTimeAPITest.elapsedTime" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestMethodReference_test_using_constructor_method_reference - 2019.07.17 at 21h 39m 44s.xml">
-      <configuration name="TestMethodReference.test_using_constructor_method_reference" configurationId="JUnit" />
+    <history-entry file="DateTimeAPITest_elapsedTime - 2019.07.27 at 00h 29m 38s.xml">
+      <configuration name="DateTimeAPITest.elapsedTime" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestMethodReference_test_using_instance_method_reference - 2019.07.17 at 21h 51m 52s.xml">
-      <configuration name="TestMethodReference.test_using_instance_method_reference" configurationId="JUnit" />
+    <history-entry file="DateTimeAPITest_elapsedTime - 2019.07.27 at 00h 30m 27s.xml">
+      <configuration name="DateTimeAPITest.elapsedTime" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestMethodReference_test_using_instance_method_reference - 2019.07.17 at 21h 57m 19s.xml">
-      <configuration name="TestMethodReference.test_using_instance_method_reference" configurationId="JUnit" />
+    <history-entry file="DateTimeAPITest_chronoUnitEnums - 2019.07.27 at 00h 34m 47s.xml">
+      <configuration name="DateTimeAPITest.chronoUnitEnums" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestCustomFunctionalInterface_test_calling_default_method_custom_functionalInterface2 - 2019.07.17 at 22h 02m 53s.xml">
-      <configuration name="TestCustomFunctionalInterface.test_calling_default_method_custom_functionalInterface2" configurationId="JUnit" />
+    <history-entry file="DateTimeAPITest_temporalAdjuster - 2019.07.27 at 00h 38m 30s.xml">
+      <configuration name="DateTimeAPITest.temporalAdjuster" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestMethodReference_test_using_static_method_reference - 2019.07.17 at 22h 05m 26s.xml">
-      <configuration name="TestMethodReference.test_using_static_method_reference" configurationId="JUnit" />
+    <history-entry file="NashornSampleTest_script - 2019.07.27 at 00h 42m 27s.xml">
+      <configuration name="NashornSampleTest.script" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="DB Browser" />
-      <window_info id="UI Designer" />
-      <window_info id="Project Explorer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Capture Tool" />
-      <window_info id="Job Explorer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="DB Execution Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Build" weight="0.32956153" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Console" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32956153" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Gradle" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info id="Image Layers" order="0" />
+      <window_info id="DB Browser" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Project Explorer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Job Explorer" order="6" />
+      <window_info id="Designer" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="8" visible="true" weight="0.2536349" />
+      <window_info id="Structure" order="9" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Console" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" visible="true" weight="0.32956153" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="4" weight="0.32956153" />
+      <window_info anchor="bottom" id="Messages" order="5" weight="0.32956153" />
+      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info anchor="bottom" id="Message" order="7" />
+      <window_info anchor="bottom" id="DB Execution Console" order="8" />
+      <window_info anchor="bottom" id="Find" order="9" />
+      <window_info anchor="bottom" id="Run" order="10" weight="0.41442716" />
+      <window_info anchor="bottom" id="Debug" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="14" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
     </layout>
   </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/functional_interface/FunctionalInterface.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/learn/java8/TestFunctionalInterfaceType.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="-1826">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/Assert.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/learn/java8/stream/StreamProcessingTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="681" column="23" selection-start-line="681" selection-start-column="23" selection-end-line="681" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/functional_interface/CustomFunctionalInterfaceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="80" selection-start-line="2" selection-start-column="80" selection-end-line="2" selection-end-column="80" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/java8/lambda/LambdaClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+        <state relative-caret-position="206">
+          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
           <folding>
-            <element signature="e#129#130#0" expanded="true" />
-            <element signature="e#179#180#0" expanded="true" />
-            <element signature="e#219#220#0" expanded="true" />
-            <element signature="e#257#258#0" expanded="true" />
-            <element signature="e#300#301#0" expanded="true" />
-            <element signature="e#338#339#0" expanded="true" />
-            <element signature="e#378#379#0" expanded="true" />
-            <element signature="e#429#430#0" expanded="true" />
-            <element signature="e#402#403#0" expanded="true" />
-            <element signature="e#470#471#0" expanded="true" />
-            <element signature="e#762#763#0" expanded="true" />
-            <element signature="e#789#790#0" expanded="true" />
+            <element signature="e#324#325#0" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
+            <element signature="e#505#506#0" expanded="true" />
+            <element signature="e#550#551#0" expanded="true" />
+            <element signature="e#890#891#0" expanded="true" />
+            <element signature="e#933#934#0" expanded="true" />
+            <element signature="e#978#979#0" expanded="true" />
+            <element signature="e#1016#1017#0" expanded="true" />
+            <element signature="e#1068#1069#0" expanded="true" />
+            <element signature="e#1087#1088#0" expanded="true" />
+            <element signature="e#1162#1163#0" expanded="true" />
+            <element signature="e#1204#1205#0" expanded="true" />
+            <element signature="e#1251#1252#0" expanded="true" />
+            <element signature="e#1287#1288#0" expanded="true" />
+            <element signature="e#1335#1336#0" expanded="true" />
+            <element signature="e#1371#1372#0" expanded="true" />
+            <element signature="e#1419#1420#0" expanded="true" />
+            <element signature="e#1455#1456#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/java8/lambda/TestInterface2.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/java8/stream/StreamProcessing.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/java8/lambda/TestInterface1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/learn/java8/TestFunctionalInterfaceType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        <state relative-caret-position="480">
+          <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/learn/java8/TestLambda.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/stream/Collectors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="103" column="19" selection-start-line="103" selection-start-column="19" selection-end-line="103" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/stream/Stream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="934" column="16" selection-start-line="934" selection-start-column="16" selection-end-line="934" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/Optional.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="141">
-          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="17" />
+          <caret line="53" column="37" selection-start-line="53" selection-start-column="37" selection-end-line="53" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/java8/optional/OptionalExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1005">
+          <caret line="67" column="25" lean-forward="true" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/learn/java8/optional/OptionalExampleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="61" column="26" selection-start-line="61" selection-start-column="26" selection-end-line="61" selection-end-column="26" />
+          <folding>
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#235#236#0" expanded="true" />
+            <element signature="e#294#295#0" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
+            <element signature="e#367#368#0" expanded="true" />
+            <element signature="e#396#397#0" expanded="true" />
+            <element signature="e#437#438#0" expanded="true" />
+            <element signature="e#454#455#0" expanded="true" />
+            <element signature="e#514#515#0" expanded="true" />
+            <element signature="e#550#551#0" expanded="true" />
+            <element signature="e#594#595#0" expanded="true" />
+            <element signature="e#627#628#0" expanded="true" />
+            <element signature="e#676#677#0" expanded="true" />
+            <element signature="e#714#715#0" expanded="true" />
+            <element signature="e#762#763#0" expanded="true" />
+            <element signature="e#799#800#0" expanded="true" />
+            <element signature="e#846#847#0" expanded="true" />
+            <element signature="e#882#883#0" expanded="true" />
+            <element signature="e#923#924#0" expanded="true" />
+            <element signature="e#953#954#0" expanded="true" />
+            <element signature="e#997#998#0" expanded="true" />
+            <element signature="e#1030#1031#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/learn/java8/stream/StreamOperationsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="130" lean-forward="true" selection-start-line="130" selection-end-line="130" />
+          <folding>
+            <element signature="e#220#221#0" expanded="true" />
+            <element signature="e#253#254#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#332#333#0" expanded="true" />
+            <element signature="e#377#378#0" expanded="true" />
+            <element signature="e#411#412#0" expanded="true" />
+            <element signature="e#457#458#0" expanded="true" />
+            <element signature="e#492#493#0" expanded="true" />
+            <element signature="e#536#537#0" expanded="true" />
+            <element signature="e#569#570#0" expanded="true" />
+            <element signature="e#611#612#0" expanded="true" />
+            <element signature="e#642#643#0" expanded="true" />
+            <element signature="e#688#689#0" expanded="true" />
+            <element signature="e#723#724#0" expanded="true" />
+            <element signature="e#766#767#0" expanded="true" />
+            <element signature="e#798#799#0" expanded="true" />
+            <element signature="e#840#841#0" expanded="true" />
+            <element signature="e#871#872#0" expanded="true" />
+            <element signature="e#916#917#0" expanded="true" />
+            <element signature="e#950#951#0" expanded="true" />
+            <element signature="e#995#996#0" expanded="true" />
+            <element signature="e#1029#1030#0" expanded="true" />
+            <element signature="e#1081#1082#0" expanded="true" />
+            <element signature="e#1122#1123#0" expanded="true" />
+            <element signature="e#1210#1211#0" expanded="true" />
+            <element signature="e#1251#1252#0" expanded="true" />
+            <element signature="e#1305#1306#0" expanded="true" />
+            <element signature="e#1347#1348#0" expanded="true" />
+            <element signature="e#1372#1373#0" expanded="true" />
+            <element signature="e#1405#1406#0" expanded="true" />
+            <element signature="e#1453#1454#0" expanded="true" />
+            <element signature="e#1487#1488#0" expanded="true" />
+            <element signature="e#1516#1517#0" expanded="true" />
+            <element signature="e#1546#1547#0" expanded="true" />
+            <element signature="e#1591#1592#0" expanded="true" />
+            <element signature="e#1621#1622#0" expanded="true" />
+            <element signature="e#1669#1670#0" expanded="true" />
+            <element signature="e#1701#1702#0" expanded="true" />
+            <element signature="e#1751#1752#0" expanded="true" />
+            <element signature="e#1786#1787#0" expanded="true" />
+            <element signature="e#1833#1834#0" expanded="true" />
+            <element signature="e#1868#1869#0" expanded="true" />
+            <element signature="e#1916#1917#0" expanded="true" />
+            <element signature="e#1952#1953#0" expanded="true" />
+            <element signature="e#1999#2000#0" expanded="true" />
+            <element signature="e#2035#2036#0" expanded="true" />
+            <element signature="e#2077#2078#0" expanded="true" />
+            <element signature="e#2111#2112#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/java8/stream/StreamOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="66" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -427,55 +655,219 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/java8/functional_interface/FunctionalInterfaceType.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-350">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="107">
+          <caret line="193" lean-forward="true" selection-start-line="193" selection-end-line="193" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/java8/functional_interface/CustomFunctionalInterface.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/time/temporal/TemporalField.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        <state relative-caret-position="420">
+          <caret line="93" column="17" selection-start-line="93" selection-start-column="17" selection-end-line="93" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/java8/functional_interface/CustomFunctionalInterfaceImplementation.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/time/temporal/TemporalUnit.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+        <state relative-caret-position="-2742">
+          <caret line="96" column="17" selection-start-line="96" selection-start-column="17" selection-end-line="96" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/learn/java8/TestCustomFunctionalInterface.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/time/zone/ZoneRulesProvider.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+        <state relative-caret-position="-2118">
+          <caret line="137" column="66" selection-start-line="137" selection-start-column="66" selection-end-line="137" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/time/ZoneRegion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="119" column="40" selection-start-line="119" selection-start-column="40" selection-end-line="119" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/time/ZoneId.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="410" column="27" selection-start-line="410" selection-start-column="27" selection-end-line="410" selection-end-column="27" />
+          <folding>
+            <element signature="e#15593#15594#0" expanded="true" />
+            <element signature="e#15632#15633#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/time/Period.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1379">
+          <caret line="384" column="25" selection-start-line="384" selection-start-column="25" selection-end-line="384" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/time/LocalDateTime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="1751" column="27" lean-forward="true" selection-start-line="1751" selection-start-column="27" selection-end-line="1751" selection-end-column="27" />
+          <folding>
+            <element signature="e#33690#33691#0" expanded="true" />
+            <element signature="e#33733#33734#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/time/format/DateTimeFormatterBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="537">
+          <caret line="2171" column="23" selection-start-line="2171" selection-start-column="23" selection-end-line="2171" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/time/format/DateTimeFormatter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="1719" column="12" selection-start-line="1719" selection-start-column="12" selection-end-line="1719" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/sql/Timestamp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="615" column="19" selection-start-line="615" selection-start-column="19" selection-end-line="615" selection-end-column="19" />
+          <folding>
+            <element signature="e#21925#21926#0" expanded="true" />
+            <element signature="e#22013#22014#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/concurrent/TimeUnit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1872">
+          <caret line="74" column="4" selection-start-line="74" selection-start-column="4" selection-end-line="74" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/time/temporal/ChronoUnit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="76" column="12" selection-start-line="76" selection-start-column="12" selection-end-line="76" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/learn/java8/date/DateTimeAPITest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="128" column="39" selection-start-line="128" selection-start-column="39" selection-end-line="128" selection-end-column="39" />
+          <folding>
+            <element signature="e#217#218#0" expanded="true" />
+            <element signature="e#243#244#0" expanded="true" />
+            <element signature="e#301#302#0" expanded="true" />
+            <element signature="e#340#341#0" expanded="true" />
+            <element signature="e#381#382#0" expanded="true" />
+            <element signature="e#420#421#0" expanded="true" />
+            <element signature="e#473#474#0" expanded="true" />
+            <element signature="e#516#517#0" expanded="true" />
+            <element signature="e#567#568#0" expanded="true" />
+            <element signature="e#593#594#0" expanded="true" />
+            <element signature="e#655#656#0" expanded="true" />
+            <element signature="e#681#682#0" expanded="true" />
+            <element signature="e#741#742#0" expanded="true" />
+            <element signature="e#767#768#0" expanded="true" />
+            <element signature="e#833#834#0" expanded="true" />
+            <element signature="e#876#877#0" expanded="true" />
+            <element signature="e#954#955#0" expanded="true" />
+            <element signature="e#1008#1009#0" expanded="true" />
+            <element signature="e#1067#1068#0" expanded="true" />
+            <element signature="e#1122#1123#0" expanded="true" />
+            <element signature="e#1151#1152#0" expanded="true" />
+            <element signature="e#1195#1196#0" expanded="true" />
+            <element signature="e#1206#1207#0" expanded="true" />
+            <element signature="e#1243#1244#0" expanded="true" />
+            <element signature="e#1293#1294#0" expanded="true" />
+            <element signature="e#1319#1320#0" expanded="true" />
+            <element signature="e#1373#1374#0" expanded="true" />
+            <element signature="e#1399#1400#0" expanded="true" />
+            <element signature="e#1456#1457#0" expanded="true" />
+            <element signature="e#1482#1483#0" expanded="true" />
+            <element signature="e#1543#1544#0" expanded="true" />
+            <element signature="e#1569#1570#0" expanded="true" />
+            <element signature="e#1624#1625#0" expanded="true" />
+            <element signature="e#1650#1651#0" expanded="true" />
+            <element signature="e#1708#1709#0" expanded="true" />
+            <element signature="e#1734#1735#0" expanded="true" />
+            <element signature="e#1793#1794#0" expanded="true" />
+            <element signature="e#1819#1820#0" expanded="true" />
+            <element signature="e#1882#1883#0" expanded="true" />
+            <element signature="e#1908#1909#0" expanded="true" />
+            <element signature="e#1968#1969#0" expanded="true" />
+            <element signature="e#2005#2006#0" expanded="true" />
+            <element signature="e#2048#2049#0" expanded="true" />
+            <element signature="e#2074#2075#0" expanded="true" />
+            <element signature="e#2136#2137#0" expanded="true" />
+            <element signature="e#2154#2155#0" expanded="true" />
+            <element signature="e#2229#2230#0" expanded="true" />
+            <element signature="e#2255#2256#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/java8/date/DateTimeAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="740">
+          <caret line="423" column="63" lean-forward="true" selection-start-line="423" selection-start-column="63" selection-end-line="423" selection-end-column="63" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/learn/java8/TestMethodReference.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/learn/java8/nashorn/NashornSampleTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="13" column="54" selection-start-line="13" selection-start-column="54" selection-end-line="13" selection-end-column="54" />
+        <state relative-caret-position="120">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#429#430#0" expanded="true" />
+            <element signature="e#216#217#0" expanded="true" />
+            <element signature="e#254#255#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/java8/method_reference/MethodReference.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/java8/nashorn/sample_js.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        <state relative-caret-position="150">
+          <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/java8/nashorn/NashornSample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
           <folding>
-            <element signature="e#219#220#0" expanded="true" />
-            <element signature="e#276#277#0" expanded="true" />
-            <element signature="e#658#659#0" expanded="true" />
-            <element signature="e#711#712#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/java8/base64/Base64Sample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/learn/java8/base64/Base64SampleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+          <folding>
+            <element signature="e#212#213#0" expanded="true" />
+            <element signature="e#239#240#0" expanded="true" />
           </folding>
         </state>
       </provider>
